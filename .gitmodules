@@ -1,0 +1,3 @@
+[submodule "Alpha_genome_quickstart_notebook"]
+	path = Alpha_genome_quickstart_notebook
+	url = git@github.com:gsstephenson/alphagenome-quickstart.git
