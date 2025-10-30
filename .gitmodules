@@ -1,3 +1,6 @@
 [submodule "Alpha_genome_quickstart_notebook"]
 	path = Alpha_genome_quickstart_notebook
 	url = git@github.com:gsstephenson/alphagenome-quickstart.git
+[submodule "GSE84888_MPRA"]
+	path = GSE84888_MPRA
+	url = git@github.com:gsstephenson/alphagenome-mpra-benchmark.git
